@@ -1,0 +1,8 @@
+---
+
+#NoFallDamage Setting
+#
+#Options: true/false
+enable: true
+
+...
